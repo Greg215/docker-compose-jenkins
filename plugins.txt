@@ -9,7 +9,7 @@ workflow-step-api:2.11
 git-server:1.7
 workflow-multibranch:2.15
 ace-editor:1.1
-1.26:gradle
+gradle:1.26
 variant:1.1
 workflow-cps-global-lib:2.8
 aws-credentials:1.20
