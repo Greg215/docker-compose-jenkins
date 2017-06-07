@@ -24,4 +24,4 @@ SSH Agent Plugin:1.15
 Subversion Plug-in:2.7.2
 Throttle Concurrent Builds Plug-in:2.0
 Timestamper:1.8.8
-Workspace Cleanup Plugin:0.331.8.8
+Workspace Cleanup Plugin:0.33
