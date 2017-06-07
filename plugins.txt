@@ -1,3 +1,4 @@
+pipeline-rest-api:2.8
 maven-plugin:2.15.1
 blueocean-web:1.0.1
 git-client:2.4.6
@@ -85,7 +86,6 @@ matrix-auth:1.6
 ws-cleanup:0.33
 pipeline-npm:0.9.1
 script-security:1.28
-pipeline-rest-api:2.8
 junit-attachments:1.4.2
 mapdb-api:1.0.9.0
 pam-auth:1.3
