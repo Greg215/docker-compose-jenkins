@@ -84,7 +84,6 @@ blueocean-personalization:1.0.1
 ldap:1.15
 matrix-auth:1.6
 ws-cleanup:0.33
-pipeline-npm:0.9.1
 script-security:1.28
 junit-attachments:1.4.2
 mapdb-api:1.0.9.0
