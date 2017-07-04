@@ -73,6 +73,6 @@ COPY plugins.sh /usr/local/bin/plugins.sh
 COPY install-plugins.sh /usr/local/bin/install-plugins.sh
 
 # change to latest jenkins version
-FROM jenkinsci/jenkins:2.68
+FROM jenkinsci/jenkins:2.67
 COPY plugins.txt /plugins.txt
 RUN /usr/local/bin/plugins.sh /plugins.txt
